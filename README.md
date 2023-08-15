@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://raw.githubusercontent.com/kalyani0704/kalyani0704/main/Kalyani%20Banner.jpg" height="100%"/></a>
+<img width="100%" src="https://raw.githubusercontent.com/kalyani0704/kalyani0704/main/Kalyani%20Banner.jpg"/>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/Kunalsonar19/Kunalsonar19/main/wave.gif" width="30px">, I'm <b>Kalyani</b></h1>
 <h3 align="center">I'm a passionate Web Developer from India.</h3>
