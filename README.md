@@ -1,7 +1,36 @@
 <img width="100%" src="https://raw.githubusercontent.com/kalyani0704/kalyani0704/main/Kalyani%20Banner.jpg"/>
-
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/Kunalsonar19/Kunalsonar19/main/wave.gif" width="30px">, I'm <b>Kalyani</b></h1>
-<h3 align="center">I'm a passionate Web Developer from India.</h3>
+<br>
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Kunalsonar007&color=brightgreen" alt="watching_count" />
+</p>
+<p align="center">
+    <img src="https://img.shields.io/badge/Age-20-blueviolet" />
+    <img src="https://img.shields.io/badge/Focus-Frontend%20Development-green" />
+    <img src="https://img.shields.io/badge/Lives-Jalgaon-success" />
+    <img src="https://img.shields.io/badge/Languages-English%20Marathi%20%26%20Hindi-red" />
+</p>
+<hr>
+<h1 align="center">𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 𝙆𝙖𝙡𝙮𝙖𝙣𝙞 𝙈𝙖𝙡𝙞 <img src="https://raw.githubusercontent.com/Kunalsonar19/Kunalsonar19/main/wave.gif" width="30px"></h1>
+<h3 align="center">ꜰʀᴏɴᴛᴇɴᴅ ᴅᴇᴠᴇʟᴏᴘᴇʀ | ᴇɴᴛʜᴜꜱɪᴀꜱᴛ ꜱᴛᴜᴅᴇɴᴛ</h3>
+<p align="center">
+<a href="">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white">
+ </a>
+<a href="">
+<img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white">
+ </a>
+ <a href="">
+<img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+ </a>
+ <img src="https://img.shields.io/badge/Linktree-43E55E.svg?style=for-the-badge&logo=Linktree&logoColor=white">
+ </a>
+ <a href="">
+<img src="https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white">
+ </a>
+ <a href="">
+<img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white">
+ </a>
+</p>
 
 
 ## 🙋‍♂️ About Me
@@ -42,15 +71,22 @@
 
 ## 📊 My Github Stats
 
+  <p align="left">
+                    <a href="https://github.com/kalyani0704/">
+  <img height=200 width="400px" align="center" src="https://github-readme-stats.vercel.app/api?bg_color=0000&text_color=272727&hide_border=false&username=kalyani0704&show_icons=true&count_private=true&rank_icon=github" />
+</a>
+<a href="https://github.com/kalyani0704">
+  <img height="200px" width="380px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kalyani0704&layout=compact&langs_count=8&card_width=320" />
+</a>
+<a href="https://github.com/kalyani0704/Crypto-Hunter">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kunalsonar007&repo=Crypto-Hunter">     
+    </a>
+ <a href="https://github.com/Kunalsonar007/Weather-App">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kunalsonar007&repo=Weather-App">     
+    </a>
+    </p>
+    <br/>  
   <br/>
-    <a href="https://github.com/kalyani0704">
-    <img alt="Kalyani's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kalyani0704" width="500px"/></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
-<br/>
-<br/>
 
 <a href="https://github.com/kalyani0704"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kalyani0704&bg_color=FFFFFF&color=5BCDEC&line=5BCDEC&point=000000&hide_border=false&border-radius=50px" /></a>
 
