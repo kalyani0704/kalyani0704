@@ -48,29 +48,46 @@
 - ⚡ Fun fact **I Am Mad About Programming.**
 
  - ⚡ **Portfolio** - ***https://kalyani-portfolio.vercel.app/***
+<br><br>
+<em align="left">
+    <h2>
+        <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="50px"> Codecraft: Languages & Tools
+    </h2>
+</em>
+<em align="center">
+    <h3> 🪄 Programming Stuffs</h3><em>
+        <p align="center">
+            <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js,bootstrap,tailwind,md,mysql,php"
+                align="center" />
+        </p>
+        <br><br>
+        <em align="center">
+            <h3> 🪄 Tools & Technology</h3><em>
+                <p align="center">
+                    <img src="https://skillicons.dev/icons?i=codepen,git,linux,netlify,replit,stackoverflow,vscode,vercel,wordpress"
+                        align="center" />
+                </p>
+                <em>
 
-## 🚀 Languages and Tools:
+<br><br>
 
-<p align="left"> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-</p>
-
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
-<br/>
-
-## 📊 My Github Streaks
+<em align="left">
+    <h2>
+        <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="50px"> Journey: GitHub Streak 
+    </h2>
+</em>
 <br>
 <p align="left">
     <a href="https://github.com/kalyani0704">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Kalyani's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kalyani0704"/>
     </a>
 </p>
-
-## 📊 My Github Stats
-
+<br><br>
+<em align="left">
+    <h2>
+        <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="50px"> Insights: GitHub Activity
+    </h2>
+</em>
   <p align="left">
                     <a href="https://github.com/kalyani0704/">
   <img height=200 width="400px" align="center" src="https://github-readme-stats.vercel.app/api?bg_color=0000&text_color=272727&hide_border=false&username=kalyani0704&show_icons=true&count_private=true&rank_icon=github" />
@@ -78,11 +95,11 @@
 <a href="https://github.com/kalyani0704">
   <img height="200px" width="380px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kalyani0704&layout=compact&langs_count=8&card_width=320" />
 </a>
-<a href="https://github.com/kalyani0704/Crypto-Hunter">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kunalsonar007&repo=Crypto-Hunter">     
+<a href="https://github.com/kalyani0704/Dribble-Sign-Up">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=kalyani0704&repo=Dribble-Sign-Up">     
     </a>
- <a href="https://github.com/Kunalsonar007/Weather-App">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kunalsonar007&repo=Weather-App">     
+ <a href="https://github.com/kalyani0704/Portfolio">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=kalyani0704&repo=Portfolio">     
     </a>
     </p>
     <br/>  
@@ -92,6 +109,8 @@
 
 <br/>
 <br/>
+
+![](https://raw.githubusercontent.com/kalyani0704/kalyani0704/a6638947f51099071b2f61f963c7c6b2ad08d750/github-user-contribution.svg)
 
 ## Connect with me:
 <p align="left">
