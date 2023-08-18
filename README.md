@@ -109,15 +109,17 @@
 
 <br/>
 <br/>
+<em>
+<h2 align="left"><img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="50px">Achievement: Top Contributions</h2>
+  
+</em>
+<br>
+<br> 
 
-![](https://raw.githubusercontent.com/kalyani0704/kalyani0704/a6638947f51099071b2f61f963c7c6b2ad08d750/github-user-contribution.svg)
+![trophy](https://github-profile-trophy.vercel.app/?username=kalyani0704&theme=onlight&row=1&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true)
 
-## Connect with me:
-<p align="left">
-
-<a href = ""><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = ""><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = ""><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-</a>
-
+<br>
+<p align="center">
+<img src="https://github.com/kalyani0704/kalyani0704/assets/103521226/bc1a80b2-6032-48f2-82d4-6e31fd536281" width="80%">    
 </p>
+
