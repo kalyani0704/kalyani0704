@@ -22,6 +22,7 @@
  <a href="">
 <img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
  </a>
+ <a href="">
  <img src="https://img.shields.io/badge/Linktree-43E55E.svg?style=for-the-badge&logo=Linktree&logoColor=white">
  </a>
  <a href="">
@@ -120,6 +121,6 @@
 
 <br>
 <p align="center">
-<img src="https://github.com/kalyani0704/kalyani0704/assets/103521226/bc1a80b2-6032-48f2-82d4-6e31fd536281" width="80%">    
+<img src="https://github.com/kalyani0704/kalyani0704/assets/103521226/bc1a80b2-6032-48f2-82d4-6e31fd536281" width="85%">    
 </p>
 
