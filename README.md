@@ -78,12 +78,15 @@
     </h2>
 </em>
 <br>
-<p align="left">
-    <a href="https://github.com/kalyani0704">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Kalyani's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kalyani0704"/>
-    </a>
-</p>
+<span align="left">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kalyani0704">
+    </span>
+    <span align="right">
+<img src="https://i.kym-cdn.com/photos/images/newsfeed/001/113/328/624.gif" align="right" width="300px">
+    </span>
+    
 <br><br>
+
 <em align="left">
     <h2>
         <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="50px"> Insights: GitHub Activity
@@ -104,10 +107,6 @@
     </a>
     </p>
     <br/>  
-  <br/>
-
-<a href="https://github.com/kalyani0704"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kalyani0704&bg_color=FFFFFF&color=5BCDEC&line=5BCDEC&point=000000&hide_border=false&border-radius=50px" /></a>
-
 <br/>
 <br/>
 <em>
@@ -122,5 +121,10 @@
 <br>
 <p align="center">
 <img src="https://github.com/kalyani0704/kalyani0704/assets/103521226/bc1a80b2-6032-48f2-82d4-6e31fd536281" width="85%">    
-</p>
+<br>
 
+<img src="https://images.squarespace-cdn.com/content/v1/5eee8d173a3cfc6d99c21024/1610396894101-J40AG4B3WZ204AEP1RVE/blossom_idle_puzzle.gif" align="center" width="200px">
+<img src="https://images.squarespace-cdn.com/content/v1/5eee8d173a3cfc6d99c21024/1610396900303-QNKFCG8ERKD58UQDBF4Y/buttercup_idle_puzzle_1.gif" align="center" width="200px">
+<img src="https://images.squarespace-cdn.com/content/v1/5eee8d173a3cfc6d99c21024/1610396896334-F5WKCHZNXBEQLXE6VYJW/bubbles_idle_puzzle.gif" align="center" width="200px">
+
+<img src="https://raw.githubusercontent.com/kalyani0704/kalyani0704/02e5956fbf95125d217e0968667fd4fb30ce73db/sample.svg" width="100%">
