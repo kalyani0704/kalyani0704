@@ -33,22 +33,31 @@
  </a>
 </p>
 
+<p align="center"> 
+    <img src="https://cdn.dribbble.com/users/1012566/screenshots/3776022/buttercup-flying.gif" aligh="center" width="250px">
+    </p>
+<h3 align="center">I ❤️ Fɾσɳƚҽɳԃ Dҽʋҽʅσρɱҽɳƚ</h3>
+<p align="center">⭐ 𝙁𝙚𝙚𝙡 𝙛𝙧𝙚𝙚 𝙩𝙤 𝙩𝙖𝙥 𝙞𝙣𝙩𝙤 𝙢𝙮 𝙠𝙣𝙤𝙬𝙡𝙚𝙙𝙜𝙚 – 𝙄'𝙢 𝙝𝙚𝙧𝙚 𝙩𝙤 𝙖𝙨𝙨𝙞𝙨𝙩, 𝙗𝙪𝙩 𝙡𝙚𝙩'𝙨 𝙠𝙚𝙚𝙥 𝙩𝙝𝙚 𝙘𝙤𝙣𝙫𝙚𝙧𝙨𝙖𝙩𝙞𝙤𝙣 𝙞𝙣 𝙢𝙮 𝙧𝙚𝙖𝙡𝙢 𝙤𝙛 𝙚𝙭𝙥𝙚𝙧𝙩𝙞𝙨𝙚!! ⭐
+</p>
+    
+<br><br>
+<em align="left">
+    <h2>
+        <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="50px"> Introducing: About Me
+    </h2>
+</em>
 
-## 🙋‍♂️ About Me
-
-- 🔭 I’m currently working on **Frontend Frameworks**
-
-- 🌱 I’m currently learning **Web Development**
-
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-
-- 👨‍💻 All of my projects are available at **[Github](https://github.com/kalyani0704)**
-
-- 📫 How to reach me **malikalyani1507@gmail.com**
-
-- ⚡ Fun fact **I Am Mad About Programming.**
-
- - ⚡ **Portfolio** - ***https://kalyani-portfolio.vercel.app/***
+<span align="left">
+    🍭 Self-Thought Front-end Product Developer <br><br>
+    🍭 I’m currently Developing 𝗠𝗲𝗿𝗰𝗵𝗮𝗻𝗱𝗶𝘀𝗲 𝗪𝗲𝗯𝘀𝗶𝘁𝗲<br><br>
+    🍭 I’m currently learning 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸𝘀 & 𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁<br><br>
+    🍭 I'm quite good at 𝗛𝗧𝗠𝗟 - 𝗖𝗦𝗦 - 𝗝𝗦<br><br>
+    🍭 I’m looking to collaborate with any 𝗢𝗽𝗲𝗻-𝗦𝗼𝘂𝗿𝗰𝗲 𝗖𝗼𝗻𝘁𝗿𝗶𝗯𝘂𝘁𝗶𝗼𝗻<br><br>
+    🍭 I’m looking for help for learning 𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁<br><br>
+    🍭 Have a look over my personal website https://kalyani-portfolio.vercel.app/<br><br>
+    
+</span>
+    
 <br><br>
 <em align="left">
     <h2>
