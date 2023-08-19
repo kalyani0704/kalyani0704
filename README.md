@@ -46,8 +46,6 @@
         <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="50px"> Introducing: About Me
     </h2>
 </em>
-
-<span align="left">
     🍭 Self-Thought Front-end Product Developer <br><br>
     🍭 I’m currently Developing 𝗠𝗲𝗿𝗰𝗵𝗮𝗻𝗱𝗶𝘀𝗲 𝗪𝗲𝗯𝘀𝗶𝘁𝗲<br><br>
     🍭 I’m currently learning 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸𝘀 & 𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁<br><br>
@@ -55,10 +53,9 @@
     🍭 I’m looking to collaborate with any 𝗢𝗽𝗲𝗻-𝗦𝗼𝘂𝗿𝗰𝗲 𝗖𝗼𝗻𝘁𝗿𝗶𝗯𝘂𝘁𝗶𝗼𝗻<br><br>
     🍭 I’m looking for help for learning 𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁<br><br>
     🍭 Have a look over my personal website https://kalyani-portfolio.vercel.app/<br><br>
-    
-</span>
-    
+
 <br><br>
+
 <em align="left">
     <h2>
         <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="50px"> Codecraft: Languages & Tools
