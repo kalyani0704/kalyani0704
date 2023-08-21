@@ -13,25 +13,26 @@
 <h1 align="center">𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 𝙆𝙖𝙡𝙮𝙖𝙣𝙞 𝙈𝙖𝙡𝙞 <img src="https://raw.githubusercontent.com/Kunalsonar19/Kunalsonar19/main/wave.gif" width="30px"></h1>
 <h3 align="center">ꜰʀᴏɴᴛᴇɴᴅ ᴅᴇᴠᴇʟᴏᴘᴇʀ | ᴇɴᴛʜᴜꜱɪᴀꜱᴛ ꜱᴛᴜᴅᴇɴᴛ</h3>
 <p align="center">
-<a href="">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white">
+<a href="https://www.linkedin.com/in/kalyani-mali-400155287/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" >
  </a>
-<a href="">
+<a href="https://github.com/Dev-Shruti">
 <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white">
  </a>
- <a href="">
+ <a href="#">
 <img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
  </a>
- <a href="">
+ <a href="https://linktr.ee/dev_kalyani">
  <img src="https://img.shields.io/badge/Linktree-43E55E.svg?style=for-the-badge&logo=Linktree&logoColor=white">
  </a>
- <a href="">
+ <a href="https://twitter.com/KalyaniMali15">
 <img src="https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white">
  </a>
- <a href="">
+ <a href="mailto: malikalyani0715@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white">
  </a>
 </p>
+<br>
 
 <p align="center"> 
     <img src="https://cdn.dribbble.com/users/1012566/screenshots/3776022/buttercup-flying.gif" aligh="center" width="250px">
