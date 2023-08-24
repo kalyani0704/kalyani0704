@@ -13,7 +13,7 @@
 <h1 align="center">𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 𝙆𝙖𝙡𝙮𝙖𝙣𝙞 𝙈𝙖𝙡𝙞 <img src="https://raw.githubusercontent.com/Kunalsonar19/Kunalsonar19/main/wave.gif" width="30px"></h1>
 <h3 align="center">ꜰʀᴏɴᴛᴇɴᴅ ᴅᴇᴠᴇʟᴏᴘᴇʀ | ᴇɴᴛʜᴜꜱɪᴀꜱᴛ ꜱᴛᴜᴅᴇɴᴛ</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/kalyani-mali-400155287/">
+<a href="https://www.linkedin.com/in/dev-kalyani/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" >
  </a>
 <a href="https://github.com/Dev-Shruti">
