@@ -1,13 +1,9 @@
-<img width="100%" src="https://raw.githubusercontent.com/kalyani0704/kalyani0704/main/Kalyani%20Banner.jpg"/>
+<img width="100%" src="https://github.com/user-attachments/assets/e2d5c594-c814-4e25-a746-8d6133a49ef0"/>
+<br>
 <br>
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Kunalsonar007&color=brightgreen" alt="watching_count" />
-</p>
-<p align="center">
-    <img src="https://img.shields.io/badge/Age-20-blueviolet" />
-    <img src="https://img.shields.io/badge/Focus-Frontend%20Development-green" />
-    <img src="https://img.shields.io/badge/Lives-Jalgaon-success" />
-    <img src="https://img.shields.io/badge/Languages-English%20Marathi%20%26%20Hindi-red" />
+    <img src="https://img.shields.io/badge/Age-23-blueviolet" />
+    <img src="https://img.shields.io/badge/Focus-UI UX Product Designer-green" />
 </p>
 <hr>
 <h1 align="center">𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 𝙆𝙖𝙡𝙮𝙖𝙣𝙞 𝙈𝙖𝙡𝙞 <img src="https://raw.githubusercontent.com/Kunalsonar19/Kunalsonar19/main/wave.gif" width="30px"></h1>
@@ -19,14 +15,8 @@
 <a href="https://github.com/Dev-Shruti">
 <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white">
  </a>
- <a href="#">
-<img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
- </a>
  <a href="https://linktr.ee/dev_kalyani">
  <img src="https://img.shields.io/badge/Linktree-43E55E.svg?style=for-the-badge&logo=Linktree&logoColor=white">
- </a>
- <a href="https://twitter.com/KalyaniMali15">
-<img src="https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white">
  </a>
  <a href="mailto: malikalyani0715@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white">
@@ -53,7 +43,7 @@
     🍭 I'm quite good at 𝗛𝗧𝗠𝗟 - 𝗖𝗦𝗦 - 𝗝𝗦<br><br>
     🍭 I’m looking to collaborate with any 𝗢𝗽𝗲𝗻-𝗦𝗼𝘂𝗿𝗰𝗲 𝗖𝗼𝗻𝘁𝗿𝗶𝗯𝘂𝘁𝗶𝗼𝗻<br><br>
     🍭 I’m looking for help for learning 𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁<br><br>
-    🍭 Have a look over my personal website https://kalyani-portfolio.vercel.app/<br><br>
+    🍭 Have a look over my personal website https://www.kalyanimali.in/<br><br>
 
 <br><br>
 
